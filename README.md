@@ -41,4 +41,4 @@ This repository contains my submission for the Day 1 lab assignment of the Simul
 - **Name:** Monika Akter
 - **Student ID:** 0432320005101047
 - **Course Teacher:** Audity Ghosh, Lecturer, Dept. of CSE, UITS
-                      Afroja Ahmed Smrity, Lecturer, Dept. of CSE, UITS
+                      -Afroja Ahmed Smrity, Lecturer, Dept. of CSE, UITS
