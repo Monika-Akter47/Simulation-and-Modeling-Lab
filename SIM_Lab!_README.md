@@ -1,4 +1,4 @@
-# Simulation and Modeling Lab — Day 1
+# Simulation and Modeling Lab: Day 1
 **Course Code:** CSE 413
 
 ## Overview
