@@ -1,4 +1,4 @@
-Simulation and Modeling Lab- Day3
+##Simulation and Modeling Lab- Day3
 
 Customer Wait Time Simulation -- Regular Days vs Busy Days
 
